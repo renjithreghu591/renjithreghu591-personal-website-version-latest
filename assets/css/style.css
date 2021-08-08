@@ -1169,3 +1169,9 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/* My styles */
+
+.circular--square {
+    border-radius: 30%; 
+}
